@@ -6,6 +6,7 @@
 - Rustacean 🦀
 - Web developer 🌍
 - Loves to misuse Apples Private Frameworks and hack together cool stuff that Apple does not want you to use 🍏
+- Contact me at [philipp.remy@law-school.de](mailto:philipp.remy@law-school.de) ✉️
 
 ## Free-time (what even is that?) 🤸
 
