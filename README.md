@@ -19,14 +19,14 @@
 <div>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=philippremy&show_icons=true&theme=github_dark_dimmed"
+      srcset="https://github-readme-stats-theta-nine-78.vercel.app/api?username=philippremy&show_icons=true&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=philippremy&show_icons=true&theme=default"
+      srcset="https://github-readme-stats-theta-nine-78.vercel.app/api?username=philippremy&show_icons=true&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=philippremy&show_icons=true&theme=default" />
+    <img src="https://github-readme-stats-theta-nine-78.vercel.app/api?username=philippremy&show_icons=true&theme=default" />
   </picture>
 </div>
 <br/>
@@ -34,14 +34,14 @@
   </picture>
     <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=philippremy&size_weight=0.5&count_weight=0.5&langs_count=5&theme=github_dark_dimmed"
+      srcset="https://github-readme-stats-theta-nine-78.vercel.app/api/top-langs/?username=philippremy&size_weight=0.5&count_weight=0.5&langs_count=5&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=philippremy&size_weight=0.5&count_weight=0.5&langs_count=5&theme=default"
+      srcset="https://github-readme-stats-theta-nine-78.vercel.app/api/top-langs/?username=philippremy&size_weight=0.5&count_weight=0.5&langs_count=5&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippremy&size_weight=0.5&count_weight=0.5&langs_count=5&theme=default" />
+    <img src="https://github-readme-stats-theta-nine-78.vercel.app/api/top-langs/?username=philippremy&size_weight=0.5&count_weight=0.5&langs_count=5&theme=default" />
   </picture>
 </div>
 
