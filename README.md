@@ -2,7 +2,7 @@
 
 - *he/they*
 - *REALLY* your average hobby coder 🖥️
-- Has absolutely no "eduction" eduction when it comes to coding, but loves learning the DIY way 🔬
+- Has absolutely no "eduction" education when it comes to coding, but loves learning the DIY way 🔬
 - Rustacean 🦀
 - Web developer 🌍
 - Loves to misuse Apples Private Frameworks and hack together cool stuff that Apple does not want you to use 🍏
