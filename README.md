@@ -18,20 +18,6 @@
 ## The below-average stats (/¯◡ ‿ ◡)/¯ ~~~
 
 <div>
-  <picture>
-    <source
-      srcset="https://github-readme-stats-theta-nine-78.vercel.app/api?username=philippremy&show_icons=true&theme=github_dark_dimmed"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-theta-nine-78.vercel.app/api?username=philippremy&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-theta-nine-78.vercel.app/api?username=philippremy&show_icons=true&theme=default" />
-  </picture>
-</div>
-<br/>
-<div>
   </picture>
     <picture>
     <source
